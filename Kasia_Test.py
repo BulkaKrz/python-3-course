@@ -1,9 +1,9 @@
 
 #name = input("Jak masz na imię?: ")
 
-#print("Cześć",name)
+# print("Cześć",name)
 
-names = ["Kasia","Zuzia","Marysia","Michał","Krzysiek","Werusia"]
+names = ["Kasia", "Zuzia", "Marysia", "Michał", "Krzysiek", "Werusia"]
 
 """
 print("Umię dodawać chcesz sperawdzić?")
@@ -18,4 +18,5 @@ for pierwsza in range(1,11):
 print(names)
 print(len(names))
 for name in names:
-    print("Cześć",name, "zapraszam Cię na zabawę ulica mokra numer zachlapany")
+    print("Cześć", name, "zapraszam Cię na zabawę ulica mokra numer zachlapany")
+    print('dodałem coś nowego i co teraz')
