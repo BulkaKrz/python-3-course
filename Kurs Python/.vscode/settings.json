@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "code-runner.runInTerminal": false,
+    "cSpell.language": "en,pl",
+    
+}
